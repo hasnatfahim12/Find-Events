@@ -1,0 +1,12 @@
+node_modules
+.nuxt
+.output
+.DS_Store
+dist
+coverage
+cypress/videos
+cypress/screenshots
+yarn-error.log
+*.log
+
+
