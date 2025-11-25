@@ -90,14 +90,6 @@ During Cypress development you can use `npm run dev` in one terminal and `npm ru
 
 ---
 
-## Contributing
-1. Fork / clone the repo.
-2. Create a feature branch.
-3. Run `npm run lint` and `npm run test`.
-4. Open a pull request describing your change and any screenshots or test notes.
-
----
-
 ## Troubleshooting
 - **Filters show no results**: confirm the selected combination actually exists in `data/events.json`. Clear filters with the dropdown toggles.
 - **Map fails to load**: check the browser console for Mapbox token errors and ensure network access to `api.mapbox.com`.
